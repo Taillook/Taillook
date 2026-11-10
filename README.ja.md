@@ -4,9 +4,13 @@
 
 ## 職務経験
 
-株式会社メンテモでSREとパフォーマンスチューニングを担当しています。
+### 株式会社メンテモ（2025年7月〜現在）
 
-MIXIでは、XFLAG CONNECTやXFLAG PARKなど、ライブイベントに関わる開発を担当しました。 [MIXIの登壇者紹介](https://mixi.connpass.com/event/232255/)
+現在はSREとパフォーマンスチューニングを担当しています。
+
+### MIXI（2019年4月〜2025年6月）
+
+XFLAG CONNECTやXFLAG PARKなど、ライブイベントに関わる開発を担当しました。 [MIXIの登壇者紹介](https://mixi.connpass.com/event/232255/)
 
 ## 経験した技術
 

@@ -4,9 +4,13 @@
 
 ## Experience
 
-I work on site reliability engineering (SRE) and performance tuning at Mentemo.
+### Mentemo (Jul 2025 – Present)
 
-At MIXI, I worked on software for live events, including XFLAG CONNECT and XFLAG PARK. [MIXI speaker profile (Japanese)](https://mixi.connpass.com/event/232255/)
+I currently work on site reliability engineering (SRE) and performance tuning.
+
+### MIXI (Apr 2019 – Jun 2025)
+
+I worked on software for live events, including XFLAG CONNECT and XFLAG PARK. [MIXI speaker profile (Japanese)](https://mixi.connpass.com/event/232255/)
 
 ## Technologies
 
