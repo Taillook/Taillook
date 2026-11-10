@@ -14,9 +14,12 @@ XFLAG CONNECTやXFLAG PARKなど、ライブイベントに関わる開発を担
 
 ## 経験した技術
 
-TypeScript · Rust · Go · Ruby on Rails · React · Kubernetes
+- **クラウド基盤・運用** — Google CloudとKubernetes（GKE）。Secret ManagerでGKEのシークレットを管理し、Cloud BuildとCloud SQL Proxyでデプロイ時のDBマイグレーションを実行しました。 [Cloud BuildでのDBマイグレーション](https://qiita.com/Taillook/items/d3854620983a00f9445f)
+- **バックエンド・API** — Go、Ruby on Rails、Rust（Axum）。WebSocketサーバーやRedis Pub/Subの実装例、OpenAPI Generatorを使ったAxumのハンドラー生成を公開しています。 [AxumでのRedis Pub/Sub](https://zenn.dev/taillook/articles/83b39888c6633d)
+- **Webフロントエンド** — TypeScript、React。
+- **モバイル開発** — SwiftとRxSwift、DartとFlutter。MVVM構成のiOSサンプルと、Firebase Authenticationを使ったFlutterのログインサンプルを実装しました。 [SwiftのMVVMサンプル](https://github.com/Taillook/SwiftMVVMSample) · [Flutterのログインサンプル](https://github.com/Taillook/FlutterFirebaseAuthSample)
 
-## 公開実績
+## 主要実績
 
 - RustとAxumで、WebSocket接続をチャンネルごとに管理するサーバーのサンプルを作りました。 [axum-grouping-ws-server](https://github.com/Taillook/axum-grouping-ws-server)
 - Goのbcrypt実装をVに移植しました。移植した実装はVの標準ライブラリに取り込まれました。 [vbcrypt](https://github.com/Taillook/vbcrypt)

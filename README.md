@@ -14,9 +14,12 @@ I worked on software for live events, including XFLAG CONNECT and XFLAG PARK. [M
 
 ## Technologies
 
-TypeScript · Rust · Go · Ruby on Rails · React · Kubernetes
+- **Cloud infrastructure and operations** — Google Cloud and Kubernetes (GKE). I managed application secrets in GKE with Secret Manager and ran database migrations during deployment with Cloud Build and Cloud SQL Proxy. [Cloud Build migration write-up (Japanese)](https://qiita.com/Taillook/items/d3854620983a00f9445f)
+- **Backend and APIs** — Go, Ruby on Rails, and Rust with Axum. My public examples cover WebSocket servers, Redis Pub/Sub, and generating Axum handlers with OpenAPI Generator. [Redis Pub/Sub write-up (Japanese)](https://zenn.dev/taillook/articles/83b39888c6633d)
+- **Web frontend** — TypeScript and React.
+- **Mobile development** — Swift with RxSwift and Dart with Flutter. I built an iOS sample with MVVM and a Flutter sign-in sample with Firebase Authentication. [Swift MVVM sample](https://github.com/Taillook/SwiftMVVMSample) · [Flutter sign-in sample](https://github.com/Taillook/FlutterFirebaseAuthSample)
 
-## Selected Work
+## Key Achievements
 
 - Built an example Rust server with Axum that groups WebSocket connections by channel. [axum-grouping-ws-server](https://github.com/Taillook/axum-grouping-ws-server)
 - Ported Go's bcrypt implementation to V. The port became part of V's standard library. [vbcrypt](https://github.com/Taillook/vbcrypt)
