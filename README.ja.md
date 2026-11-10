@@ -14,9 +14,11 @@ XFLAG CONNECTやXFLAG PARKなど、ライブイベントに関わる開発を担
 
 ## 経験した技術
 
-- **クラウド基盤・運用** — Google Cloud、Kubernetes（GKE）、Secret Manager、Cloud Build、Cloud SQL Proxy
-- **バックエンド・API** — Go、Ruby on Rails、Rust、Axum、WebSocket、Redis Pub/Sub、OpenAPI Generator
-- **Webフロントエンド** — TypeScript、React
+- **クラウド基盤・運用** — Cloudflare（Workers、R2）、OpenNext for Cloudflare、Google Cloud、Kubernetes（GKE）、Secret Manager、Cloud Build、Cloud SQL Proxy
+- **バックエンド・API** — Hono、Zod、Go、Ruby on Rails、Rust、Axum、WebSocket、Redis Pub/Sub、OpenAPI Generator
+- **データベース・ORM** — Cloudflare D1（SQLite）、Drizzle ORM
+- **Webフロントエンド** — TypeScript、React、Next.js、Tailwind CSS、TanStack Query
+- **開発・テスト・CI/CD** — Bun、Node.js、Wrangler、GitHub Actions、Biome、Playwright
 - **モバイル開発** — Swift、RxSwift、MVVM、Dart、Flutter、Firebase Authentication
 
 ## 主要実績

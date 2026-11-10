@@ -14,9 +14,11 @@ I worked on software for live events, including XFLAG CONNECT and XFLAG PARK. [M
 
 ## Technologies
 
-- **Cloud infrastructure and operations** — Google Cloud, Kubernetes (GKE), Secret Manager, Cloud Build, Cloud SQL Proxy
-- **Backend and APIs** — Go, Ruby on Rails, Rust, Axum, WebSocket, Redis Pub/Sub, OpenAPI Generator
-- **Web frontend** — TypeScript, React
+- **Cloud infrastructure and operations** — Cloudflare (Workers, R2), OpenNext for Cloudflare, Google Cloud, Kubernetes (GKE), Secret Manager, Cloud Build, Cloud SQL Proxy
+- **Backend and APIs** — Hono, Zod, Go, Ruby on Rails, Rust, Axum, WebSocket, Redis Pub/Sub, OpenAPI Generator
+- **Databases and ORM** — Cloudflare D1 (SQLite), Drizzle ORM
+- **Web frontend** — TypeScript, React, Next.js, Tailwind CSS, TanStack Query
+- **Development, testing, and CI/CD** — Bun, Node.js, Wrangler, GitHub Actions, Biome, Playwright
 - **Mobile development** — Swift, RxSwift, MVVM, Dart, Flutter, Firebase Authentication
 
 ## Key Achievements
