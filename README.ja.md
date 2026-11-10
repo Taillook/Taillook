@@ -14,10 +14,10 @@ XFLAG CONNECTやXFLAG PARKなど、ライブイベントに関わる開発を担
 
 ## 経験した技術
 
-- **クラウド基盤・運用** — Google CloudとKubernetes（GKE）。Secret ManagerでGKEのシークレットを管理し、Cloud BuildとCloud SQL Proxyでデプロイ時のDBマイグレーションを実行しました。 [Cloud BuildでのDBマイグレーション](https://qiita.com/Taillook/items/d3854620983a00f9445f)
-- **バックエンド・API** — Go、Ruby on Rails、Rust（Axum）。WebSocketサーバーやRedis Pub/Subの実装例、OpenAPI Generatorを使ったAxumのハンドラー生成を公開しています。 [AxumでのRedis Pub/Sub](https://zenn.dev/taillook/articles/83b39888c6633d)
-- **Webフロントエンド** — TypeScript、React。
-- **モバイル開発** — SwiftとRxSwift、DartとFlutter。MVVM構成のiOSサンプルと、Firebase Authenticationを使ったFlutterのログインサンプルを実装しました。 [SwiftのMVVMサンプル](https://github.com/Taillook/SwiftMVVMSample) · [Flutterのログインサンプル](https://github.com/Taillook/FlutterFirebaseAuthSample)
+- **クラウド基盤・運用** — Google Cloud、Kubernetes（GKE）、Secret Manager、Cloud Build、Cloud SQL Proxy
+- **バックエンド・API** — Go、Ruby on Rails、Rust、Axum、WebSocket、Redis Pub/Sub、OpenAPI Generator
+- **Webフロントエンド** — TypeScript、React
+- **モバイル開発** — Swift、RxSwift、MVVM、Dart、Flutter、Firebase Authentication
 
 ## 主要実績
 
@@ -28,10 +28,7 @@ XFLAG CONNECTやXFLAG PARKなど、ライブイベントに関わる開発を担
 ## 技術記事
 
 - [OpenAPI GeneratorのカスタムテンプレートでAxumのWebSocketハンドラーを生成する（Zenn）](https://zenn.dev/mixi/articles/f6b7e3e205417b)
+- [RustでRedis Pub/Subの購読が静かに切れる問題への対処（Qiita）](https://qiita.com/Taillook/items/6dde2a045c2af85c414b)
+- [AxumでRedis Pub/Subを使う（Zenn）](https://zenn.dev/taillook/articles/83b39888c6633d)
 - [GKEでGoogle Cloud Secret Managerのシークレットを使う（Qiita）](https://qiita.com/Taillook/items/db3cc8c1ca5f5110b38a)
-
-## GitHubでの活動
-
-[![公開情報に基づくGitHub活動の統計](https://github-stats-extended.vercel.app/api?username=Taillook&theme=monokai&show_icons=true&include_all_commits=true&locale=ja)](https://github.com/Taillook)
-
-[![公開リポジトリの使用言語](https://github-stats-extended.vercel.app/api/top-langs/?username=Taillook&theme=monokai&layout=compact&langs_count=10&locale=ja)](https://github.com/Taillook)
+- [Cloud BuildとCloud SQL ProxyでDBマイグレーションを実行する（Qiita）](https://qiita.com/Taillook/items/d3854620983a00f9445f)

@@ -14,10 +14,10 @@ I worked on software for live events, including XFLAG CONNECT and XFLAG PARK. [M
 
 ## Technologies
 
-- **Cloud infrastructure and operations** — Google Cloud and Kubernetes (GKE). I managed application secrets in GKE with Secret Manager and ran database migrations during deployment with Cloud Build and Cloud SQL Proxy. [Cloud Build migration write-up (Japanese)](https://qiita.com/Taillook/items/d3854620983a00f9445f)
-- **Backend and APIs** — Go, Ruby on Rails, and Rust with Axum. My public examples cover WebSocket servers, Redis Pub/Sub, and generating Axum handlers with OpenAPI Generator. [Redis Pub/Sub write-up (Japanese)](https://zenn.dev/taillook/articles/83b39888c6633d)
-- **Web frontend** — TypeScript and React.
-- **Mobile development** — Swift with RxSwift and Dart with Flutter. I built an iOS sample with MVVM and a Flutter sign-in sample with Firebase Authentication. [Swift MVVM sample](https://github.com/Taillook/SwiftMVVMSample) · [Flutter sign-in sample](https://github.com/Taillook/FlutterFirebaseAuthSample)
+- **Cloud infrastructure and operations** — Google Cloud, Kubernetes (GKE), Secret Manager, Cloud Build, Cloud SQL Proxy
+- **Backend and APIs** — Go, Ruby on Rails, Rust, Axum, WebSocket, Redis Pub/Sub, OpenAPI Generator
+- **Web frontend** — TypeScript, React
+- **Mobile development** — Swift, RxSwift, MVVM, Dart, Flutter, Firebase Authentication
 
 ## Key Achievements
 
@@ -28,10 +28,7 @@ I worked on software for live events, including XFLAG CONNECT and XFLAG PARK. [M
 ## Technical Writing
 
 - [Generating Axum WebSocket handlers with a custom OpenAPI Generator template (Zenn, Japanese)](https://zenn.dev/mixi/articles/f6b7e3e205417b)
+- [Handling silent Redis Pub/Sub subscription drops in Rust (Qiita, Japanese)](https://qiita.com/Taillook/items/6dde2a045c2af85c414b)
+- [Using Redis Pub/Sub with Axum (Zenn, Japanese)](https://zenn.dev/taillook/articles/83b39888c6633d)
 - [Using Google Cloud Secret Manager with GKE (Qiita, Japanese)](https://qiita.com/Taillook/items/db3cc8c1ca5f5110b38a)
-
-## GitHub Activity
-
-[![Taillook's public GitHub statistics](https://github-stats-extended.vercel.app/api?username=Taillook&theme=monokai&show_icons=true&include_all_commits=true)](https://github.com/Taillook)
-
-[![Top languages in Taillook's public repositories](https://github-stats-extended.vercel.app/api/top-langs/?username=Taillook&theme=monokai&layout=compact&langs_count=10)](https://github.com/Taillook)
+- [Running database migrations with Cloud Build and Cloud SQL Proxy (Qiita, Japanese)](https://qiita.com/Taillook/items/d3854620983a00f9445f)
